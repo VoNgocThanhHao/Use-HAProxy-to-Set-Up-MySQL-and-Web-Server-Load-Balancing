@@ -31,7 +31,7 @@ Cài đặt `mysql-server`:
     apt install mysql-server -y
 
 Cấu hình lại `mysql`:
-
+ 
     sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf
 
 Thêm `#` vào đầu dòng để dòng thành ghi chú:
