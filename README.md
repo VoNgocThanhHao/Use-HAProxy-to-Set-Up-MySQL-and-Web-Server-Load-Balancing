@@ -344,4 +344,4 @@ Nếu kết quả như bên dưới thì đã thành công:
             Network_Namespace:
 
 
-***Các bước đã hoàn thành, bây giờ chi việc vào ip máy HA 1 để kiểm tra thôi!!!!***
+## ***Các bước đã hoàn thành, bây giờ chi việc vào ip máy HA 1 để kiểm tra thôi!!!!***
